@@ -10,6 +10,6 @@ HactivTracker is an iOS application designed to help users manage their daily ac
 - **MVVM Architecture:** Built with a robust Model-View-ViewModel architecture for scalability and maintainability.
 
 ## Tools used
-- **Swift** - **UIKit** - **DGCharts** - **Xcode** - **CoreData**    
+- **Swift** - **UIKit** - **DGCharts** - **Xcode** - **CoreData** - **Storyboard** - **Version Control**    
 
 
