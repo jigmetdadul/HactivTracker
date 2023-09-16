@@ -9,18 +9,7 @@ HactivTracker is an iOS application designed to help users manage their daily ac
 - **Real-time Feedback:** Get instant feedback and actionable tips to improve your time management skills.
 - **MVVM Architecture:** Built with a robust Model-View-ViewModel architecture for scalability and maintainability.
 
-## Getting Started
+## Tools used
+- **Swift** - **UIKit** - **DGCharts** - **Xcode** - **CoreData**    
 
-These instructions will help you set up and run HactivTracker on the iOS Simulator.
 
-### Prerequisites
-
-- Xcode (Version 13.0 or higher)
-- macOS (Version 10.15.4 or higher)
-
-### Installation
-
-1. Clone the repository to your local machine:
-
-   ```shell
-   git clone https://github.com/yourusername/HactivTracker.git
